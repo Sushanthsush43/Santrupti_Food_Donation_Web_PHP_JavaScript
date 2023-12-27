@@ -1,0 +1,6 @@
+<a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+               <div class="overflow-hidden">
+                            <img style= "width: 10%;height:10%"  src="img/team-3.jpg" alt="">
+                        
+						<h2 class="m-0 text-primary">Santrupti</h2></div>
+        </a>

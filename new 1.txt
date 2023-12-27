@@ -1,0 +1,16 @@
+function checkPassword(form){
+							upassword = form.upassword.value;
+							cpassword = form.cpassword.value;
+							if(upassword == '')
+							alert ("Please enter the password");
+							else if (cpassword == '')
+							alert ("Please enter the confirm password");
+							else if (upassword != cpassword){
+							alert ("Password dont match");
+							return false;
+							}
+							else{
+							alert ("Password match");
+							return true;
+							}
+							}
